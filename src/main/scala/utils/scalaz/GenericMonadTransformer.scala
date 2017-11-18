@@ -1,3 +1,5 @@
+package utils.scalaz
+
 import scalaz.{Functor, Monad, Traverse}
 import scalaz._
 import Scalaz._
